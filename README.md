@@ -20,5 +20,4 @@ I am enthusiastic about creating efficient, user-friendly applications and lever
 
 ### 🔗 Let's Connect
 [![Email](https://img.shields.io/badge/Email-sanjanarach7%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sanjanarach7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/racharla-sanjana-5b32a7242/)
