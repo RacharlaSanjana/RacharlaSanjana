@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I’m Sanjana Racharla
 
-<!--
-**RacharlaSanjana/RacharlaSanjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Skills:**  
+Python | C++ | JavaScript | React.js | Node.js | Express.js | MongoDB | Tailwind CSS
 
-Here are some ideas to get you started:
+🌱 **Currently Exploring:**  
+Advanced AI/ML techniques & scalable full-stack architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 **Open to Collaborations On:**  
+AI-driven projects, web development, and data science applications
+
+📬 **Contact Me:**  
+📧 [sanjanarach7@gmail.com](mailto:sanjanarach7@gmail.com)
+
+
+🚀 **About Me**  
+I am enthusiastic about creating efficient, user-friendly applications and leveraging AI to solve real-world problems. I love diving into new technologies, tackling coding challenges, and contributing to innovative projects.
+
+---
+
+### 🔗 Let's Connect
+[![Email](https://img.shields.io/badge/Email-sanjanarach7%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sanjanarach7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_LINK)
