@@ -24,3 +24,5 @@ I am enthusiastic about creating efficient, user-friendly applications and lever
 
 ### 🧩 LeetCode Stats
 [![Sanjana's LeetCode Stats](https://leetcard.jacoblin.cool/sanjana_racharla)](https://leetcode.com/u/sanjana_racharla/)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={sanjana_racharla})
+
