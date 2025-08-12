@@ -21,6 +21,6 @@ I am enthusiastic about creating efficient, user-friendly applications and lever
 [![Email](https://img.shields.io/badge/Email-sanjanarach7%40gmail.com-yellow?style=for-the-badge&logo=maildotru&logoColor=black)](mailto:sanjanarach7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/racharla-sanjana-5b32a7242/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-black?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/sanjana_racharla/)
-### 🧩 LeetCode Stats
-![Sanjana's LeetCode Stats](https://leetcard.jacoblin.cool/sanjana_racharla)
 
+### 🧩 LeetCode Stats
+[![Sanjana's LeetCode Stats](https://leetcard.jacoblin.cool/sanjana_racharla)](https://leetcode.com/u/sanjana_racharla/)
